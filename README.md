@@ -1,0 +1,2 @@
+# karakter sayac
+ 
